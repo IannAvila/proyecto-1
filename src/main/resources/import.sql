@@ -1,0 +1,10 @@
+INSERT INTO productos(nombre,cod_producto,tipo,precio,fecha_registro,cantidad) VALUES ("cocacola","00001","bebida",2.0,"2022-06-16",6);
+INSERT INTO productos(nombre,cod_producto,tipo,precio,fecha_registro,cantidad) VALUES ("patatas","00002","comida",3.0,"2022-06-16",4);
+INSERT INTO productos(nombre,cod_producto,tipo,precio,fecha_registro,cantidad) VALUES ("helado","00003","comida",2.0,"2022-06-16",3);
+INSERT INTO productos(nombre,cod_producto,tipo,precio,fecha_registro,cantidad) VALUES ("arroz","00004","comida",2.0,"2022-06-16",2);
+INSERT INTO productos(nombre,cod_producto,tipo,precio,fecha_registro,cantidad) VALUES ("comida de perro","00005","mascota",5.0,"2022-06-16",1);
+INSERT INTO productos(nombre,cod_producto,tipo,precio,fecha_registro,cantidad) VALUES ("legia","00006","limpieza",5.0,"2022-06-16",2);
+INSERT INTO productos(nombre,cod_producto,tipo,precio,fecha_registro,cantidad) VALUES ("gaspacho","00007","comida",3.0,"2022-06-16",2);
+INSERT INTO productos(nombre,cod_producto,tipo,precio,fecha_registro,cantidad) VALUES ("pastel","00008","comida",7.0,"2022-06-16",1);
+INSERT INTO productos(nombre,cod_producto,tipo,precio,fecha_registro,cantidad) VALUES ("carne","00009","comida",9.0,"2022-06-16",4);
+INSERT INTO productos(nombre,cod_producto,tipo,precio,fecha_registro,cantidad) VALUES ("balleta","00010","limbieza",3.0,"2022-06-16",4);
